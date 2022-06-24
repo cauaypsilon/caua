@@ -1,0 +1,14 @@
+.main {
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    border: rgb(2, 90, 90);
+    border-radius: 10px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 175px;
+}
